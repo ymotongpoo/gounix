@@ -6,6 +6,7 @@ Unix/Linux command clone in Go
 Implemented
 ===========
 
+* whoami
 * yes
 
 Not implemented
@@ -109,4 +110,3 @@ Not implemented
 * users
 * watch
 * who
-* whoami
